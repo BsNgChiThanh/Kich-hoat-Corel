@@ -9,6 +9,22 @@ Sau khi cài đặt xong, copy file [Cap.exe](https://bsthanh-my.sharepoint.com/
 C:\Program Files\Corel\CorelDRAW Graphics Suite 2021\Programs64
 ```
 
-Tiếp theo chỉnh [file hot tại đây](https://bsthanh-my.sharepoint.com/:t:/g/personal/0914678254_bsthanh_tk/Eesd60dHJv5AiY-fpXssQ18BNJYdwdmqPhKwDab73NovCg?e=nyUfx3)
+Tiếp theo chỉnh file hot! File này nằm trong đường dẫn:
+
+```php
+C:\Windows\System32\drivers\etc\hosts
+```
+**Nội dung cần thêm vào file hot:**
+
+```php
+0.0.0.0 mc.corel.com
+0.0.0.0 apps.corel.com
+0.0.0.0 origin-mc.corel.com
+0.0.0.0 iws.corel.com
+0.0.0.0 compute-1.amazonaws.com  
+0.0.0.0 ipm.corel.com  
+0.0.0.0 dev1.ipm.corel.public.corel.net 
+127.0.0.1 instead of 0.0.0.0 at the begginning
+```
 
 Restart máy là OK.
