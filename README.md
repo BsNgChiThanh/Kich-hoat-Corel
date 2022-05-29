@@ -1,6 +1,15 @@
-# Kich-hoat-Corel-2021
-Kích hoạt Corel 2021
+# Kich-hoat-Corel
+Kích hoạt Corel
 # DOWLOAD VÀ CÀI ĐẶT #
+
+# COREL 2022 #
+
+**[Bộ cài đặt bấm vào đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EfYjdgK0Yd5PsjBF7pOVT2kBEiNSmz9c-K5igYsXuxFb_w?e=VcH6it)**
+
+**Có file crack sẵn trong bộ cài đặt, hoặc muốn download riêng thì [bấm vào đây](
+
+# COEREL 2021 #
+
 [Source nguồn tại đây](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EnW6Ebw3LrtImRaPKpEGftUB1y-9MpszIL3BOcT7r9ty4Q?e=Ju89ET)
 
 Sau khi cài đặt xong, copy file [Cap.exe](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EhdvwQF59KRKj_wdSiogVTkBvaYgA2S7w2SCzY6QatYhcg?e=JinXkZ) và [CRLFRMWK.dll](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EhdvwQF59KRKj_wdSiogVTkBvaYgA2S7w2SCzY6QatYhcg?e=JinXkZ) vào đường dẫn: 
