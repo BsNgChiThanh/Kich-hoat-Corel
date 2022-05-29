@@ -13,7 +13,7 @@ Password giải nén: isangtao.com
 Cài bình thường, cài xong thì copy 2 file crack ghi đè vào đường dẫn:
 
 ```php
-
+C:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64
 ```
 
 # COEREL 2021 #
