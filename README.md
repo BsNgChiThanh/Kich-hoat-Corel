@@ -45,8 +45,6 @@ C:\Windows\System32\drivers\etc\hosts
 0.0.0.0 corelvietnam.com  
 0.0.0.0 coreldraw.com
 0.0.0.0 dev1.ipm.corel.public.corel.net 
-0.0.0.0 mindmanager.com
-0.0.0.0 parallels.com
 127.0.0.1 instead of 0.0.0.0 at the begginning
 ```
 
