@@ -6,7 +6,9 @@ Kích hoạt Corel
 
 **[Bộ cài đặt bấm vào đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EfYjdgK0Yd5PsjBF7pOVT2kBEiNSmz9c-K5igYsXuxFb_w?e=VcH6it)**
 
-**Có file crack sẵn trong bộ cài đặt, hoặc muốn download riêng thì [bấm vào đây](
+**Có file crack sẵn trong bộ cài đặt, hoặc muốn download riêng thì [bấm vào đây](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/Elkm8YSPCzJEp1guTR4_H40BLPhs-yp7ouj_kN7--8mRpA?e=EgfHcw)**
+
+Password giải nén: 
 
 # COEREL 2021 #
 
