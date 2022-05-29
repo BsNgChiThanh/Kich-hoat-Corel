@@ -16,6 +16,8 @@ Cài bình thường, cài xong thì copy 2 file crack ghi đè vào đường d
 C:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64
 ```
 
+**Sau đó chỉnh sửa file hosts giống như trong crack Corel 2021 bên dưới!!!**
+
 # COEREL 2021 #
 
 [Source nguồn tại đây](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EnW6Ebw3LrtImRaPKpEGftUB1y-9MpszIL3BOcT7r9ty4Q?e=Ju89ET)
@@ -26,7 +28,7 @@ Sau khi cài đặt xong, copy file [Cap.exe](https://bsthanh-my.sharepoint.com/
 C:\Program Files\Corel\CorelDRAW Graphics Suite 2021\Programs64
 ```
 
-Tiếp theo chỉnh file hot! File này nằm trong đường dẫn:
+Tiếp theo chỉnh file hosts! File này nằm trong đường dẫn:
 
 ```php
 C:\Windows\System32\drivers\etc\hosts
