@@ -8,7 +8,13 @@ Kích hoạt Corel
 
 **Có file crack sẵn trong bộ cài đặt, hoặc muốn download riêng thì [bấm vào đây](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/Elkm8YSPCzJEp1guTR4_H40BLPhs-yp7ouj_kN7--8mRpA?e=EgfHcw)**
 
-Password giải nén: 
+Password giải nén: isangtao.com 
+
+Cài bình thường, cài xong thì copy 2 file crack ghi đè vào đường dẫn:
+
+```php
+
+```
 
 # COEREL 2021 #
 
