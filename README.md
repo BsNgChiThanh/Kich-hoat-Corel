@@ -31,7 +31,7 @@ C:\Program Files\Corel\CorelDRAW Graphics Suite 2021\Programs64
 Tiếp theo chỉnh file hosts! File này nằm trong đường dẫn:
 
 ```php
-C:\Windows\System32\drivers\etc\hosts
+C:\Windows\System32\drivers\etc
 ```
 **Nội dung cần thêm vào file hot:**
 
@@ -47,5 +47,15 @@ C:\Windows\System32\drivers\etc\hosts
 0.0.0.0 dev1.ipm.corel.public.corel.net 
 127.0.0.1 instead of 0.0.0.0 at the begginning
 ```
+
+**Giải pháp sửa file hosts:**
+
+Một số máy không cho chỉnh file hosts trực tuyến, mà chỉnh bằng cách:
+
+- Truy cập vào đường dẫn: C:\Windows\System32\drivers\etc
+- Copy files hosts ra một vị trí nào đó ví dụ màn hình desktop
+- Dùng NotePad mở file hosts lên, copy nội dung cần vào cuối của file, bấm "Save"
+- Sau đó ra màn hình desktop, copy file hosts đó, ghi đè vào đường dẫn: C:\Windows\System32\drivers\etc
+- Vậy là xong!
 
 Restart máy là OK.
