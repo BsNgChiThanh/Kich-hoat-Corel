@@ -50,7 +50,7 @@ C:\Windows\System32\drivers\etc
 
 **Giải pháp sửa file hosts:**
 
-Một số máy không cho chỉnh file hosts trực tuyến, mà chỉnh bằng cách:
+Một số máy không cho chỉnh file hosts trực tiếp, mà chỉnh bằng cách:
 
 - Truy cập vào đường dẫn: C:\Windows\System32\drivers\etc
 - Copy files hosts ra một vị trí nào đó ví dụ màn hình desktop
