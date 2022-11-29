@@ -1,12 +1,10 @@
-# Kich-hoat-Corel
+# A. COREL PORTAL #
 
-# COREL PORTAL #
+- ## [COREL 2020 PORTAL Click vào đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EUaOVvipIXtCl7Nic5lubP0Bghas3dc8JGCbB--OPZWnbQ?e=Dt40DX) ##
 
-## [COREL 2020 PORTAL Click vào đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EUaOVvipIXtCl7Nic5lubP0Bghas3dc8JGCbB--OPZWnbQ?e=Dt40DX) ##
+# B. COREL CÀI ĐẶT #
 
-# DOWLOAD VÀ CÀI ĐẶT #
-
-## COREL 2022 ##
+- ## COREL 2022 ##
 
 **[Bộ cài đặt bấm vào đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EfYjdgK0Yd5PsjBF7pOVT2kBEiNSmz9c-K5igYsXuxFb_w?e=VcH6it)**
 
@@ -22,7 +20,7 @@ C:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64
 
 **Sau đó chỉnh sửa file hosts giống như trong crack Corel 2021 bên dưới!!!**
 
-## COEREL 2021 ##
+- ## COEREL 2021 ##
 
 [Source nguồn tại đây](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EnW6Ebw3LrtImRaPKpEGftUB1y-9MpszIL3BOcT7r9ty4Q?e=Ju89ET)
 
