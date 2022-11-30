@@ -1,5 +1,7 @@
 # A. COREL PORTAL #
 
+- ## [COREL 2022 PORTAL Click vào đây.](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EbP0DPWmyNNFrjcG4KeWUfUBlCsh6alaIYeJsAQl0C-c6A?e=7m0F1t) ## 
+    - **Lưu ý:** có một số file khi giải nén bị **Windows Security** ăn thịt nhưng vẵn chạy tốt!
 - ## [COREL 2020 PORTAL Click vào đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EUaOVvipIXtCl7Nic5lubP0Bghas3dc8JGCbB--OPZWnbQ?e=Dt40DX) ##
 
 # B. COREL CÀI ĐẶT #
