@@ -1,16 +1,16 @@
 # A. COREL PORTAL #
 
-- ## [COREL 2022 PORTAL Click vào đây.](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EbP0DPWmyNNFrjcG4KeWUfUBlCsh6alaIYeJsAQl0C-c6A?e=7m0F1t) ## 
+- ## [COREL 2022 PORTAL Click vào đây.](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EbP0DPWmyNNFrjcG4KeWUfUBlCsh6alaIYeJsAQl0C-c6A?e=7m0F1t) ## 
     - **Lưu ý:** có một số file khi giải nén bị **Windows Security** ăn thịt nhưng vẵn chạy tốt!
-- ## [COREL 2020 PORTAL Click vào đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EUaOVvipIXtCl7Nic5lubP0Bghas3dc8JGCbB--OPZWnbQ?e=Dt40DX) ##
+- ## [COREL 2020 PORTAL Click vào đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EUaOVvipIXtCl7Nic5lubP0Bghas3dc8JGCbB--OPZWnbQ?e=Dt40DX) ##
 
 # B. COREL CÀI ĐẶT #
 
 - ## COREL 2022 ##
 
-**[Bộ cài đặt bấm vào đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EfYjdgK0Yd5PsjBF7pOVT2kBEiNSmz9c-K5igYsXuxFb_w?e=VcH6it)**
+**[Bộ cài đặt bấm vào đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EfYjdgK0Yd5PsjBF7pOVT2kBEiNSmz9c-K5igYsXuxFb_w?e=VcH6it)**
 
-**Có file crack sẵn trong bộ cài đặt, hoặc muốn download riêng thì [bấm vào đây](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/Elkm8YSPCzJEp1guTR4_H40BLPhs-yp7ouj_kN7--8mRpA?e=EgfHcw)**
+**Có file crack sẵn trong bộ cài đặt, hoặc muốn download riêng thì [bấm vào đây](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Elkm8YSPCzJEp1guTR4_H40BLPhs-yp7ouj_kN7--8mRpA?e=EgfHcw)**
 
 Password giải nén: isangtao.com 
 
@@ -24,9 +24,9 @@ C:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Programs64
 
 - ## COEREL 2021 ##
 
-[Source nguồn tại đây](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EnW6Ebw3LrtImRaPKpEGftUB1y-9MpszIL3BOcT7r9ty4Q?e=Ju89ET)
+[Source nguồn tại đây](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EnW6Ebw3LrtImRaPKpEGftUB1y-9MpszIL3BOcT7r9ty4Q?e=Ju89ET)
 
-Sau khi cài đặt xong, copy file [Cap.exe](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EhdvwQF59KRKj_wdSiogVTkBvaYgA2S7w2SCzY6QatYhcg?e=JinXkZ) và [CRLFRMWK.dll](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EhdvwQF59KRKj_wdSiogVTkBvaYgA2S7w2SCzY6QatYhcg?e=JinXkZ) vào đường dẫn: 
+Sau khi cài đặt xong, copy file [Cap.exe](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EhdvwQF59KRKj_wdSiogVTkBvaYgA2S7w2SCzY6QatYhcg?e=JinXkZ) và [CRLFRMWK.dll](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EhdvwQF59KRKj_wdSiogVTkBvaYgA2S7w2SCzY6QatYhcg?e=JinXkZ) vào đường dẫn: 
 
 ```php
 C:\Program Files\Corel\CorelDRAW Graphics Suite 2021\Programs64
