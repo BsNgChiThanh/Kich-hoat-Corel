@@ -63,3 +63,26 @@ Một số máy không cho chỉnh file hosts trực tiếp, mà chỉnh bằng 
 - Vậy là xong!
 
 Restart máy là OK.
+
+# Tắt file backup trong CorelDRAW #
+
+Sau khi sử dụng Corel 1 thời gian, chúng ta sẽ thấy xuất hiện 1 loạt các file có dạng Backup…. đây là các file mà CorelDRAW đã tự động sao lưu ra mỗi khi chúng ta chỉnh sửa file đó, Tính năng này mặc định sau khi cài đặt, tưởng chừng như là hay nhưng đôi khi nó lại làm phiền chúng ta rất nhiều, có khi chúng ta sẽ có cả trăm nghìn file backup như vậy. Sau đây là cách để chúng ta bỏ tính năng đó:
+
+![image](https://user-images.githubusercontent.com/82578024/224452184-fbffb131-41c9-4e48-bca7-17995e36e178.png)
+
+Bước 1: Vào Tool/ Option (Phím tắt Ctrl + J), Hộp thoại hiện ra chúng ta mở rộng Workspace bằng cách nhấn vào dấu cộng, chọn mục save:
+
+![image](https://user-images.githubusercontent.com/82578024/224452218-4a120075-55ad-479c-8887-a10aaac28eab.png)
+
+Bước 2: Bỏ chọn dấu tích Back up original file before saving trong tùy chọn Save:
+
+![image](https://user-images.githubusercontent.com/82578024/224452359-e852d1a3-db3e-4098-9f6b-b09310212b98.png)
+
+OK xong, vừa rồi là chi tiết các Bỏ backup trong CorelDRAW, từ nay chúng ta sẽ không bao giờ phải chịu phiền toái vì những file backup quá nhiều nữa!
+
+# Xóa rác trong file tạm do Corel sinh ra #
+
+- Bấm biểu tượng **Windows + R**
+- Một cửa sổ hiện lên, gõ vào **temp** bấm enter, sau đó thư mục temp hiện lên, xóa hết các file và thư mục trong đó, đóng thư mục lại.
+- Bấm biểu tượng **Windows + R**
+- Một cửa sổ hiện lên, gõ vào **%temp%** bấm enter, sau đó thư mục **C:\Users\<YourUserName>\AppData\Local\Temp** hiện lên, xóa hết các file và thư mục trong đó, đóng thư mục lại.
