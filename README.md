@@ -83,6 +83,6 @@ OK xong, vừa rồi là chi tiết các Bỏ backup trong CorelDRAW, từ nay c
 # Xóa rác trong file tạm do Corel sinh ra #
 
 - Bấm biểu tượng **Windows + R**
-- Một cửa sổ hiện lên, gõ vào **temp** bấm enter, sau đó thư mục temp hiện lên, xóa hết các file và thư mục trong đó, đóng thư mục lại.
+- Một cửa sổ hiện lên, gõ vào **temp** bấm enter, sau đó thư mục **C:\Windows\Temp** hiện lên, xóa hết các file và thư mục trong đó, đóng thư mục lại.
 - Bấm biểu tượng **Windows + R**
 - Một cửa sổ hiện lên, gõ vào **%temp%** bấm enter, sau đó thư mục **C:\Users\<YourUserName>\AppData\Local\Temp** hiện lên, xóa hết các file và thư mục trong đó, đóng thư mục lại.
