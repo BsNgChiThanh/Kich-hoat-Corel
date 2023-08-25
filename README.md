@@ -8,7 +8,7 @@ Tác giả: Nguyễn Chí Thành
     - **Lưu ý:** có một số file khi giải nén bị **Windows Security** ăn thịt nhưng vẵn chạy tốt!
 - ## [COREL 2020 PORTAL Click vào đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EUaOVvipIXtCl7Nic5lubP0Bghas3dc8JGCbB--OPZWnbQ?e=Dt40DX) ##
 - ## [CORELDRAW X8 Portable](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/ErNvzeQLotZCgZ94XJSZyq8BiJ-ROCp3PCOl0-J6oBBwlQ?e=BblUHj) ##
-- ## [Coreldraw_x7_portable](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Et-FRS5DeLVImkP9ogS2TyUB-mcEc2r2BGJAMuR2-LoVtQ?e=SfPdk5) ##
+- ## [Coreldraw X7 Portable](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Et-FRS5DeLVImkP9ogS2TyUB-mcEc2r2BGJAMuR2-LoVtQ?e=SfPdk5) ##
 
 # B. COREL CÀI ĐẶT #
 
