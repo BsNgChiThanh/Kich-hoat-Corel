@@ -61,8 +61,8 @@ Tác giả: Nguyễn Chí Thành
 
 Sau khi sử dụng Corel 1 thời gian, chúng ta sẽ thấy xuất hiện 1 loạt các file có dạng Backup…. đây là các file mà CorelDRAW đã tự động sao lưu ra mỗi khi chúng ta chỉnh sửa file đó, Tính năng này mặc định sau khi cài đặt, tưởng chừng như là hay nhưng đôi khi nó lại làm phiền chúng ta rất nhiều, có khi chúng ta sẽ có cả trăm nghìn file backup như vậy. Sau đây là cách để chúng ta bỏ tính năng đó:
 
-    - Bước 1: Vào Tool/ Option (Phím tắt Ctrl + J), Hộp thoại hiện ra chúng ta mở rộng Workspace bằng cách nhấn vào dấu cộng, chọn mục save:
-    - ![image](https://github.com/BsNgChiThanh/Kich-hoat-Corel/assets/82578024/20b1a7d7-1445-48b8-aa6b-40412440d188)
-    - Bước 2: Bỏ chọn dấu tích Back up original file before saving trong tùy chọn Save:
-    - ![image](https://github.com/BsNgChiThanh/Kich-hoat-Corel/assets/82578024/5500aa2e-7b9b-4b4a-9136-59d653e7dc43)
-    - OK xong, vừa rồi là chi tiết các Bỏ backup trong CorelDRAW, từ nay chúng ta sẽ không bao giờ phải chịu phiền toái vì những file backup quá nhiều nữa!
+- Bước 1: Vào Tool/ Option (Phím tắt Ctrl + J), Hộp thoại hiện ra chúng ta mở rộng Workspace bằng cách nhấn vào dấu cộng, chọn mục save:
+- ![image](https://github.com/BsNgChiThanh/Kich-hoat-Corel/assets/82578024/20b1a7d7-1445-48b8-aa6b-40412440d188)
+- Bước 2: Bỏ chọn dấu tích Back up original file before saving trong tùy chọn Save:
+- ![image](https://github.com/BsNgChiThanh/Kich-hoat-Corel/assets/82578024/5500aa2e-7b9b-4b4a-9136-59d653e7dc43)
+- OK xong, vừa rồi là chi tiết các Bỏ backup trong CorelDRAW, từ nay chúng ta sẽ không bao giờ phải chịu phiền toái vì những file backup quá nhiều nữa!
