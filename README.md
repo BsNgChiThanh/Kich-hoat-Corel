@@ -10,7 +10,7 @@ Tác giả: Nguyễn Chí Thành
 - ## [COREL 2020 PORTAL](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EUaOVvipIXtCl7Nic5lubP0Bghas3dc8JGCbB--OPZWnbQ?e=Dt40DX) ##
     - Link tải dự phòng: https://drive.google.com/file/d/1joRd4lF-7VhlN-8xw7LoWpOjoLVzR-Dh/view?usp=sharing
 - ## [CORELDRAW X8 PORTAL](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/ErNvzeQLotZCgZ94XJSZyq8BiJ-ROCp3PCOl0-J6oBBwlQ?e=BblUHj) ##
-    - Link tải dự phòng: 
+    - Link tải dự phòng: https://drive.google.com/file/d/1UJqlpiQg1icYItARYSXwNpEHhxVWX_lG/view?usp=sharing
 - ## [Coreldraw X7 PORTAL](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Et-FRS5DeLVImkP9ogS2TyUB-mcEc2r2BGJAMuR2-LoVtQ?e=SfPdk5) ##
     - Link tải dự phòng: https://drive.google.com/file/d/1hUTpOujSOKx1GMtXDdNF-0ECsTDHc0-s/view?usp=sharing
 
