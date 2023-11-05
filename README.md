@@ -4,11 +4,15 @@ Tác giả: Nguyễn Chí Thành
 
 # A. COREL PORTAL #
 
-- ## [COREL 2022 PORTAL](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EbP0DPWmyNNFrjcG4KeWUfUBlCsh6alaIYeJsAQl0C-c6A?e=7m0F1t) ## 
+- ## [COREL 2022 PORTAL](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EbP0DPWmyNNFrjcG4KeWUfUBlCsh6alaIYeJsAQl0C-c6A?e=7m0F1t) ##
+    - Link tải dự phòng:
     - **Lưu ý:** có một số file khi giải nén bị **Windows Security** ăn thịt nhưng vẵn chạy tốt!
 - ## [COREL 2020 PORTAL](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EUaOVvipIXtCl7Nic5lubP0Bghas3dc8JGCbB--OPZWnbQ?e=Dt40DX) ##
+    - Link tải dự phòng:
 - ## [CORELDRAW X8 PORTAL](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/ErNvzeQLotZCgZ94XJSZyq8BiJ-ROCp3PCOl0-J6oBBwlQ?e=BblUHj) ##
+    - Link tải dự phòng:
 - ## [Coreldraw X7 PORTAL](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Et-FRS5DeLVImkP9ogS2TyUB-mcEc2r2BGJAMuR2-LoVtQ?e=SfPdk5) ##
+    - Link tải dự phòng:
 
 # B. COREL CÀI ĐẶT #
 
@@ -86,5 +90,3 @@ Sau khi sử dụng Corel 1 thời gian, chúng ta sẽ thấy xuất hiện 1 l
 - Bước 2: Bỏ chọn dấu tích Back up original file before saving trong tùy chọn Save:
 - ![image](https://github.com/BsNgChiThanh/Kich-hoat-Corel/assets/82578024/5500aa2e-7b9b-4b4a-9136-59d653e7dc43)
 - OK xong, vừa rồi là chi tiết các Bỏ backup trong CorelDRAW, từ nay chúng ta sẽ không bao giờ phải chịu phiền toái vì những file backup quá nhiều nữa!
-
-## [BẤM VÀO ĐÂY, NẾU MUỐN ỦNG HỘ SỰ HOẠT ĐỘNG CỦA KÊNH](https://me.momo.vn/OeIRuaTbfqsmFyiataCM/MvbmqGVrVjLpbYA) ##
